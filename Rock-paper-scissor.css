@@ -1,0 +1,61 @@
+body{
+    background-color:  rgb(23, 23, 23);
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 700;
+    font-size: larger;
+    text-align: center;
+}
+.title{
+    font-size: 30px;
+    font-weight: 900;
+    color: rgb(244, 244, 132);
+    text-align: center;
+}
+.box{
+    display: flex;
+    justify-content: center;
+}
+.icon{
+    height: 50px;
+}
+.but{
+    background-color: black;
+    border: 3px solid white;
+    width: 130px;
+    height: 130px;
+    border-radius: 50%;
+    margin: 20px;
+    margin-bottom: 10px;
+    cursor: pointer;
+}
+.icon-2{
+    width: 70px;
+}
+.results{
+    margin: 25px;
+    font-weight: 700;
+    font-size: 30px;
+    text-transform: uppercase;
+    
+}
+.moves{
+    margin-bottom: 40px;
+}
+.scores{
+    margin-top: 30px;
+}
+.reset{
+    height: 60px;
+    width: 130px;
+    border-radius: 4px;
+    background-color: rgb(241, 201, 79);
+    color: rgb(9, 9, 9);
+    border: none;
+    font-size: 15px;
+    font-weight: 600;
+    cursor: pointer;
+    font-style: normal;
+    font-family: arial;
+    margin-top: 20px;
+}
