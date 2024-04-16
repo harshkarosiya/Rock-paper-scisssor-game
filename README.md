@@ -1,2 +1,1 @@
-Rock paper scissors game <br>
-some method use
+Rock paper scissors game 
